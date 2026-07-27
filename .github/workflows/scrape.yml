@@ -1,0 +1,46 @@
+name: Scrape AI Jobs
+
+on:
+  schedule:
+    # Runs daily at 08:00 UTC (4pm SGT) and 00:00 UTC (8am SGT)
+    - cron: "0 0,8 * * *"
+  workflow_dispatch:  # allow manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          JOB_TRACKER_SEND_EMAIL: "true"
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+        run: python main.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "job-tracker-bot"
+          git config user.email "bot@job-tracker.local"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            NEW=$(python -c "import json; d=json.load(open('data/diff.json')); print(len(d['added']))")
+            REM=$(python -c "import json; d=json.load(open('data/diff.json')); print(len(d['removed']))")
+            git commit -m "update: +${NEW} jobs, -${REM} jobs removed"
+            git push
+          fi
