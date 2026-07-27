@@ -25,10 +25,7 @@ jobs:
 
       - name: Run scraper
         env:
-          JOB_TRACKER_SEND_EMAIL: "true"
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          SMTP_TO: ${{ secrets.SMTP_TO }}
+          JOB_TRACKER_SEND_EMAIL: "false"  # set to "true" after adding SMTP secrets
         run: python main.py
 
       - name: Commit updated data
