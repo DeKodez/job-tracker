@@ -1,185 +1,186 @@
-AI/ML Jobs in Singapore — 2026-08-01 01:28 UTC
-Total active listings: 93 (was 93)
+AI/ML Jobs in Singapore — 2026-08-01 09:47 UTC
+Total active listings: 92 (was 93)
 
 === NEW (59) ===
   + [A*STAR - Agency for Science, Technology and Research] HPC AI Engineer, Frontier, NSCC — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/hpc-ai-engineer-frontier-nscc-at-a-star-agency-for-science-technology-and-research-4398987930?position=48&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=Qf8%2B1LNsYRxAiaK9xHNL5w%3D%3D
+    https://sg.linkedin.com/jobs/view/hpc-ai-engineer-frontier-nscc-at-a-star-agency-for-science-technology-and-research-4398987930?position=48&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=d12qjPIyDpNVANygwO5dIQ%3D%3D
   + [A1] Applied AI Engineer — Singapore
-    https://sg.linkedin.com/jobs/view/applied-ai-engineer-at-a1-4433218800?position=4&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=6pdwBdjzqIEG%2BsY3dZggug%3D%3D
+    https://sg.linkedin.com/jobs/view/applied-ai-engineer-at-a1-4433218800?position=4&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=F8REWdQJyAgZzlOfLKrMmQ%3D%3D
   + [A1] Member of Technical Staff, Machine Learning — Singapore
-    https://sg.linkedin.com/jobs/view/member-of-technical-staff-machine-learning-at-a1-4433218801?position=40&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=PQIC1gOY3vV9zBZeBlRUQw%3D%3D
+    https://sg.linkedin.com/jobs/view/member-of-technical-staff-machine-learning-at-a1-4433218801?position=40&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=kZXrcVvm5onMDqpgm4mpbQ%3D%3D
   + [AECOM] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-aecom-4444810615?position=39&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=c3fJ1OoJPNnSRlEpEJ6wDw%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-aecom-4444810615?position=39&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=g%2BW%2BlyUxqzkoqHhIpU%2FSWA%3D%3D
   + [ASUS] AICS SG - Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/aics-sg-machine-learning-engineer-at-asus-4426048298?position=6&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=eQsdLVVDogNlTQp7ADIVmA%3D%3D
+    https://sg.linkedin.com/jobs/view/aics-sg-machine-learning-engineer-at-asus-4426048298?position=6&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=WPkkRFeMGqqDDjfjNfMiwQ%3D%3D
   + [Accenture Southeast Asia] AI Engineer - Gemini Powered Solutions — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-gemini-powered-solutions-at-accenture-southeast-asia-4383919912?position=60&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=jPf5aBUDGRSnOq5UTezWow%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-gemini-powered-solutions-at-accenture-southeast-asia-4383919912?position=60&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=LDtOORFLdD6ulcSQffwAzg%3D%3D
   + [Alstom] Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-alstom-4421138871?position=56&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=J0XotC%2BOlK6yjtZrRBB9Fw%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-alstom-4421138871?position=56&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=XY%2FU8XsGKRN5xWlLAGJl8Q%3D%3D
   + [Ambition] Data Science and AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/data-science-and-ai-engineer-at-ambition-4443210972?position=33&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=x6anaPuOJcnQzST7Cc6vwA%3D%3D
+    https://sg.linkedin.com/jobs/view/data-science-and-ai-engineer-at-ambition-4443210972?position=33&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=F5fvTky0Cc3HYEnMIRc2uQ%3D%3D
   + [AppLovin] Machine Learning Engineer – Feed Recommendation — Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-feed-recommendation-at-applovin-4382920995?position=17&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=bsMWJoipZR6MBn0TvvoBGg%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-feed-recommendation-at-applovin-4382920995?position=18&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=6fxdmz0z35qU%2BLO1ANdeng%3D%3D
   + [Cantina Labs] Machine Learning Engineer (Singapore) — Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-singapore-at-cantina-labs-4410363104?position=27&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=g%2BWnHuTJwXCHBaaIEwjhzg%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-singapore-at-cantina-labs-4410363104?position=27&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=19nk4mpvP6XYx4%2Fs1bbC2Q%3D%3D
   + [Changi Airport Group] Machine Learning Engineer (AI/ML Lab) — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-ai-ml-lab-at-changi-airport-group-4405967633?position=1&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=MWSqNLBPjCZWZtTSdn8MjQ%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-ai-ml-lab-at-changi-airport-group-4405967633?position=1&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=%2FhFhPR6KFmmPTjIrdX9ZkA%3D%3D
   + [ESTIDAMA UAE] LLM Algorithm Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/llm-algorithm-engineer-at-estidama-uae-4447006538?position=52&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=DIYaxAuVS4WOIAD9ZwWLBQ%3D%3D
+    https://sg.linkedin.com/jobs/view/llm-algorithm-engineer-at-estidama-uae-4447006538?position=52&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=4BwN5XQtkW82O6FvAt0lgA%3D%3D
   + [Endava] Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-endava-4445796800?position=7&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=rEertqJLyCb4UHpMviCGiA%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-endava-4445796800?position=7&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=ycGANjjX5oWoPIoy2WFimw%3D%3D
   + [Entegris] Engineer I, Artificial Intelligence — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/engineer-i-artificial-intelligence-at-entegris-4434428063?position=46&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=ZieJZHYw8VQaD9AeviR%2Few%3D%3D
+    https://sg.linkedin.com/jobs/view/engineer-i-artificial-intelligence-at-entegris-4434428063?position=46&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=u6hvHFO4fRTHXMSKg06gQA%3D%3D
   + [Fireworks AI] Applied Machine Learning Engineer, Singapore — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/applied-machine-learning-engineer-singapore-at-fireworks-ai-4443814343?position=11&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=xpzMrwU6Cy7XVlc5R0AAfg%3D%3D
+    https://sg.linkedin.com/jobs/view/applied-machine-learning-engineer-singapore-at-fireworks-ai-4443814343?position=12&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=xhVyy1SYiQhs4ckh6Z%2Fzsw%3D%3D
   + [GTS Consulting] AI Developer — Singapore
-    https://sg.linkedin.com/jobs/view/ai-developer-at-gts-consulting-4427192334?position=35&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=Ep7sh%2B8pFAKsnAtIYmW2iA%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-developer-at-gts-consulting-4427192334?position=35&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=W7KF6%2B2PZkt47Zx4NEGM4A%3D%3D
   + [Hendricks Corp Pte Ltd] Mid AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/mid-ai-engineer-at-hendricks-corp-pte-ltd-4442625350?position=3&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=IF9OFDpdXLLCH6EW4BGMeg%3D%3D
+    https://sg.linkedin.com/jobs/view/mid-ai-engineer-at-hendricks-corp-pte-ltd-4442625350?position=3&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=h6Rw9qRZ1kYe3y5ftJ7x0Q%3D%3D
   + [JAC Recruitment] Software Engineer (AI Systems) — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/software-engineer-ai-systems-at-jac-recruitment-4440954022?position=21&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=FMZzbUwuJKtK9rTZ%2BZyTOQ%3D%3D
+    https://sg.linkedin.com/jobs/view/software-engineer-ai-systems-at-jac-recruitment-4440954022?position=21&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=nxANoE1pDbS%2BC0vgNS0%2B4w%3D%3D
   + [Julius Baer] Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-julius-baer-4437112355?position=2&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=DIJqDzclGyMOCP%2B2JH0atw%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-julius-baer-4437112355?position=2&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=Ri%2FBJqI%2FohLX30nKzpwiww%3D%3D
   + [LRDTECH] AI / ML / Data Engineering — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-ml-data-engineering-at-lrdtech-4419832310?position=30&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=ZCq5hFg6FU%2BGN9ioZ3GCag%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-ml-data-engineering-at-lrdtech-4419832310?position=30&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=3qGitebY8BNx4GX88ZKtXw%3D%3D
   + [Manulife] Machine Learning Engineer, Asia — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-asia-at-manulife-4403900542?position=9&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=nZwKy00XlLUe2Gujml8LrA%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-asia-at-manulife-4403900542?position=9&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=jyB%2BqttMYJsRyQMfLol0pA%3D%3D
   + [Menlo Research] Robotics AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/robotics-ai-engineer-at-menlo-research-4429637266?position=58&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=tOs9pPsMUjD3Fkx6gdaNgw%3D%3D
+    https://sg.linkedin.com/jobs/view/robotics-ai-engineer-at-menlo-research-4429637266?position=57&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=dykofYqiUr5WZhpTfdRyag%3D%3D
   + [Monee] Machine Learning Engineer - Risk Data — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-risk-data-at-monee-4408273721?position=42&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=m5g8MdAVpLDnXePNK5ULtQ%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-risk-data-at-monee-4408273721?position=42&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=xo87fpc1RJn6YxoSls8ZeA%3D%3D
   + [Mosaic Consulting Group] AI Developer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-developer-at-mosaic-consulting-group-4437004372?position=41&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=aPFXctCunyn%2BobbzN4uZ0Q%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-developer-at-mosaic-consulting-group-4437004372?position=41&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=WXwtuXGTNH4tUeAbwosXlQ%3D%3D
   + [NCS Group] #EG Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/%23eg-machine-learning-engineer-at-ncs-group-4429436690?position=23&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=QR3bHfb63z5zhQLf%2F57TkA%3D%3D
+    https://sg.linkedin.com/jobs/view/%23eg-machine-learning-engineer-at-ncs-group-4429436690?position=23&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=LpjnSkOlCzti2zzt4GtMgQ%3D%3D
   + [NEXadept] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-nexadept-4442037326?position=59&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=fYrASzYFw5giiAIzRmmTjw%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-nexadept-4442037326?position=59&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=uaFnLaEMaWo4yffiVpTuIw%3D%3D
   + [Nanyang Technological University Singapore] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-nanyang-technological-university-singapore-4382950494?position=44&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=WM7ryzRc%2BYZ90RYxgqHf7Q%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-nanyang-technological-university-singapore-4382950494?position=44&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=DP2HhT%2BL8glLrN8O9Q4n5g%3D%3D
   + [Nas Company] AI Software Engineer - Nas.com — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-software-engineer-nas-com-at-nas-company-4442533330?position=45&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=zq0%2F3LQjgFU1RLj4jYjAxw%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-software-engineer-nas-com-at-nas-company-4442533330?position=45&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=Pz6HCSb8e0hpbVhADv17tg%3D%3D
   + [Naval Group APAC] AI MLOps Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-mlops-engineer-at-naval-group-apac-4441792958?position=18&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=002%2B1T6%2BFzJLX9orrfAwhA%3D%3D
-  + [Nicoll Curtin] Backend Engineer, AI — Singapore
-    https://sg.linkedin.com/jobs/view/backend-engineer-ai-at-nicoll-curtin-4436548097?position=43&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=1bxvnXBBGOSMqNeHRwurXA%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-mlops-engineer-at-naval-group-apac-4441792958?position=17&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=L4NbkLxNfxbLaq28lBPRHg%3D%3D
   + [Nicoll Curtin] Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-nicoll-curtin-4442261351?position=32&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=7TUUmoBRTIIkJyKYWvJCbA%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-nicoll-curtin-4442261351?position=31&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=6%2F23DUj%2BToQS%2B9Kvk%2By%2Bug%3D%3D
+  + [Nicoll Curtin] Backend Engineer, AI — Singapore
+    https://sg.linkedin.com/jobs/view/backend-engineer-ai-at-nicoll-curtin-4436548097?position=43&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=AMsU5LNxzDY2TMqoCdiIig%3D%3D
   + [PhysicsX] Machine Learning Engineer — Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-physicsx-4359937589?position=53&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=mGEGPGbvtIw0bqn58GxXtA%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-physicsx-4359937589?position=53&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=BD9cfgDso%2Fue2aBHS305zw%3D%3D
   + [Prudential Assurance Company Singapore] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-prudential-assurance-company-singapore-4415325884?position=38&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=IJuz6iky3IJVleGphfYxNQ%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-prudential-assurance-company-singapore-4415325884?position=38&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=RO8%2F1EhOmUBg0%2FE%2BVhMJEA%3D%3D
   + [R Systems] Artificial Intelligence Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-r-systems-4440431595?position=26&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=LVNo2t7ys9BkxyrqvlYM%2Bg%3D%3D
+    https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-r-systems-4440431595?position=26&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=zGdisIX%2Bjtvl2mjRg8hXmQ%3D%3D
   + [RSM - Singapore] AI Engineer, Data Science — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-data-science-at-rsm-singapore-4443425943?position=57&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=7CKlfXzCUyGrZYzt6pnXJg%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-data-science-at-rsm-singapore-4443425943?position=58&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=yTsgLRj2Z%2FToDoNUroGVXQ%3D%3D
   + [Razer] AI Software Engineer — Singapore
-    https://sg.linkedin.com/jobs/view/ai-software-engineer-at-razer-4414630705?position=29&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=rAdd8alR%2BiUHbE0abq79bw%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-software-engineer-at-razer-4414630705?position=29&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=f65HIaTYEEqgRq%2F3b8WcJQ%3D%3D
   + [Rezolve Ai] Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-rezolve-ai-4446962138?position=22&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=pGIh7viBzoqKp9T78kWNQQ%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-rezolve-ai-4446962138?position=22&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=bNP7d6cgeBIlii3wGYK0DA%3D%3D
   + [SATS Ltd.] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-sats-ltd-4438056970?position=49&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=aRLXiO0mTQXeWjBUZiub4g%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-sats-ltd-4438056970?position=49&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=Gq%2BIfI9sDRVMEXgqOSVZ8Q%3D%3D
   + [SEPHORA] Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-sephora-4346173408?position=31&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=7Xu1evVa5neGfgUhriJkIA%3D%3D
-  + [SHIELD] Machine Learning Engineer (Risk) — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-risk-at-shield-3992961031?position=34&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=cZT0GShERQBeyJ5XIk5x0g%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-sephora-4346173408?position=32&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=vBr1kEUCt%2BuvPq25DRd7%2Fw%3D%3D
   + [SHIELD] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-shield-4322726898?position=16&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=OnMnprpYb4xo1%2FGDFc%2Frnw%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-shield-4322726898?position=16&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=FstNyOxLTh9e9Ocm7lDW6w%3D%3D
+  + [SHIELD] Machine Learning Engineer (Risk) — Singapore, Singapore
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-risk-at-shield-3992961031?position=34&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=V8%2FUTNjMv%2Fck9NaE9tEFOQ%3D%3D
   + [Sea] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-sea-4436315480?position=51&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=UYmfLBeXC9%2Bwuxezpl0VRg%3D%3D
-  + [Seatrium] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-seatrium-4361578068?position=28&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=18ZK4FpMhQrz7Rgo7yM%2B6A%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-sea-4436315480?position=51&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=yzLVp6V%2FAvo8LIG8vUtcag%3D%3D
   + [Seatrium] AI Developer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-developer-at-seatrium-4282102214?position=47&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=KrBHxotuKz9VLw59yDpPfA%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-developer-at-seatrium-4282102214?position=47&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=6AMTtNRAih26%2Ft1jVD8GIQ%3D%3D
+  + [Seatrium] AI Engineer — Singapore, Singapore
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-seatrium-4361578068?position=28&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=tvMYHvVRpLCu9jPqz37N4g%3D%3D
   + [Shokz] Artificial Intelligence Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-shokz-4444336462?position=37&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=X6AGB23eyEv%2BKMTXe4ZhkA%3D%3D
+    https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-shokz-4444336462?position=37&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=0QAU%2BeYYK7OMpiYdfFVU1A%3D%3D
   + [SimplifyNext] Artificial Intelligence Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-simplifynext-4442299648?position=10&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=H%2FuTjPYCER1mT6rQYHAWeg%3D%3D
+    https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-simplifynext-4442299648?position=10&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=Xoj11Dm%2FErHk8kJmevUGJg%3D%3D
   + [Temus] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-temus-4438443925?position=19&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=tSOmuRxS0yDRC1o8VOV%2BBg%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-temus-4438443925?position=19&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=a%2FY%2FKI2EBcRjndLeBjgTLQ%3D%3D
   + [The Digital and Intelligence Service (DIS)] Artificial Intelligence Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-the-digital-and-intelligence-service-dis-4445453914?position=25&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=4gQ6M9hMXHlR4sN6zFMIeA%3D%3D
+    https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-the-digital-and-intelligence-service-dis-4445453914?position=25&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=EGnCp7NP3Kaj0zGY3VJy5w%3D%3D
   + [TikTok] Machine Learning Engineer, Monetization Data Alignment — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-monetization-data-alignment-at-tiktok-4444851115?position=14&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=f6veJGKkTVmYJyGwG7Zmeg%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-monetization-data-alignment-at-tiktok-4444851115?position=14&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=GMtTQ0wBgPLzArek%2BmJMag%3D%3D
   + [Tower Research Capital] Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-tower-research-capital-4432080196?position=55&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=EDUW6nQhE7y2Ej2nbFJBFA%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-tower-research-capital-4432080196?position=54&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=Hce9RB%2BtnG0A%2FcxE8aCbUQ%3D%3D
   + [Unison Group] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-unison-group-4430400614?position=5&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=PUzohIdsqCHDokf5hTyqNQ%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-unison-group-4430400614?position=5&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=lsXMpBU6rk18h%2FmA%2BDQCoQ%3D%3D
   + [Unison Group] AI Engineer (Azure AI Solutions) — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-azure-ai-solutions-at-unison-group-4432097892?position=15&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=R34TB1BPWyqSF9VL9xwXLw%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-azure-ai-solutions-at-unison-group-4432097892?position=15&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=gZAD%2F%2FYw5QzuKjyIka9ycg%3D%3D
   + [Univers] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-univers-4441406780?position=8&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=EfmtNTPRqlWEsklvR0JVzg%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-univers-4441406780?position=8&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=Hxvxz96CLlUgo9R4zT%2Fy4w%3D%3D
   + [VIAVI Solutions] AI Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-viavi-solutions-4443865645?position=24&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=%2BucA0psDWFz%2BQDX1mchjpA%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-viavi-solutions-4443865645?position=24&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=GRIhqce7uwLTQrvzTgqBeQ%3D%3D
   + [Viridien] Machine Learning Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-viridien-4337812620?position=12&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=VDaTLMpSLtZJix6CuI1YdA%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-viridien-4337812620?position=11&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=WdRqNQdnc0QVMltROZEzSg%3D%3D
   + [Virtuos] AI Engineer — Singapore
-    https://sg.linkedin.com/jobs/view/ai-engineer-at-virtuos-4337417005?position=36&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=whzJvQdn8QRYoGVUsdur8Q%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-engineer-at-virtuos-4337417005?position=36&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=HJXyHp1PKAYcEiYfZVKz2g%3D%3D
   + [Workato] AI Researcher — Singapore
-    https://sg.linkedin.com/jobs/view/ai-researcher-at-workato-4438626531?position=54&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=un1hbRe7YbrI%2FmDnLeH%2FBQ%3D%3D
+    https://sg.linkedin.com/jobs/view/ai-researcher-at-workato-4438626531?position=55&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=STCaQt%2BNo7gwIhb1%2BXcnzA%3D%3D
   + [Xiaomi Technology] Machine Learning Engineer(A178330) — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/machine-learning-engineer-a178330-at-xiaomi-technology-4435415191?position=20&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=Yz1plkyERh8ZB%2Fx6c4bQng%3D%3D
+    https://sg.linkedin.com/jobs/view/machine-learning-engineer-a178330-at-xiaomi-technology-4435415191?position=20&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=TesxsfklbILVffdNmHPLtQ%3D%3D
   + [adaption] Applied ML Engineer — Singapore, Singapore
-    https://sg.linkedin.com/jobs/view/applied-ml-engineer-at-adaption-4424837847?position=13&pageNum=0&refId=EY%2FfDK8j2Olb467SsCHbFQ%3D%3D&trackingId=ep5BzdU2z%2F6qTJYxWWii3w%3D%3D
+    https://sg.linkedin.com/jobs/view/applied-ml-engineer-at-adaption-4424837847?position=13&pageNum=0&refId=hQwzIgQIYfHogLrONrAkXw%3D%3D&trackingId=NSiiaqHkUKjz9HTggaByxg%3D%3D
 
-=== REMOVED (59) ===
+=== REMOVED (60) ===
   - [A*STAR - Agency for Science, Technology and Research] HPC AI Engineer, Frontier, NSCC — Singapore, Singapore
   - [A1] Member of Technical Staff, Machine Learning — Singapore
   - [A1] Applied AI Engineer — Singapore
-  - [AECOM] AI Engineer — Singapore, SingaporeActively Hiring
-  - [ASUS] AICS SG - Machine Learning Engineer — Singapore, SingaporeActively Hiring
-  - [Accenture Southeast Asia] AI Engineer - Gemini Powered Solutions — Singapore, SingaporeActively Hiring
-  - [Alstom] Machine Learning Engineer — Singapore, SingaporeActively Hiring
-  - [Ambition] Data Science and AI Engineer — Singapore, SingaporeActively Hiring
-  - [AppLovin] Machine Learning Engineer – Feed Recommendation — SingaporeActively Hiring
+  - [AECOM] AI Engineer — Singapore, Singapore
+  - [ASUS] AICS SG - Machine Learning Engineer — Singapore, Singapore
+  - [Accenture Southeast Asia] AI Engineer - Gemini Powered Solutions — Singapore, Singapore
+  - [Alstom] Machine Learning Engineer — Singapore, Singapore
+  - [Ambition] Data Science and AI Engineer — Singapore, Singapore
+  - [AppLovin] Machine Learning Engineer – Feed Recommendation — Singapore
   - [Cantina Labs] Machine Learning Engineer (Singapore) — Singapore
   - [Changi Airport Group] Machine Learning Engineer (AI/ML Lab) — Singapore, Singapore
+  - [Databricks] Field Engineering, AI/ML Product Specialist — Melbourne, Australia; Singapore; Sydney, Australia
   - [ESTIDAMA UAE] LLM Algorithm Engineer — Singapore, Singapore
-  - [Endava] Machine Learning Engineer — Singapore, SingaporeActively Hiring
-  - [Entegris] Engineer I, Artificial Intelligence — Singapore, SingaporeActively Hiring
+  - [Endava] Machine Learning Engineer — Singapore, Singapore
+  - [Entegris] Engineer I, Artificial Intelligence — Singapore, Singapore
   - [Fireworks AI] Applied Machine Learning Engineer, Singapore — Singapore, Singapore
   - [GTS Consulting] AI Developer — Singapore
   - [Hendricks Corp Pte Ltd] Mid AI Engineer — Singapore, Singapore
-  - [JAC Recruitment] Software Engineer (AI Systems) — Singapore, SingaporeActively Hiring
+  - [JAC Recruitment] Software Engineer (AI Systems) — Singapore, Singapore
   - [Julius Baer] Machine Learning Engineer — Singapore, Singapore
   - [LRDTECH] AI / ML / Data Engineering — Singapore, Singapore
-  - [Manulife] Machine Learning Engineer, Asia — Singapore, SingaporeActively Hiring
+  - [Manulife] Machine Learning Engineer, Asia — Singapore, Singapore
   - [Menlo Research] Robotics AI Engineer — Singapore, Singapore
-  - [Monee] Machine Learning Engineer - Risk Data — Singapore, SingaporeActively Hiring
+  - [Monee] Machine Learning Engineer - Risk Data — Singapore, Singapore
   - [Mosaic Consulting Group] AI Developer — Singapore, Singapore
   - [NCS Group] #EG Machine Learning Engineer — Singapore, Singapore
   - [NEXadept] AI Engineer — Singapore, Singapore
   - [Nanyang Technological University Singapore] AI Engineer — Singapore, Singapore
   - [Nas Company] AI Software Engineer - Nas.com — Singapore, Singapore
   - [Naval Group APAC] AI MLOps Engineer — Singapore, Singapore
-  - [Nicoll Curtin] Backend Engineer, AI — SingaporeActively Hiring
-  - [Nicoll Curtin] Machine Learning Engineer — Singapore, SingaporeActively Hiring
+  - [Nicoll Curtin] Machine Learning Engineer — Singapore, Singapore
+  - [Nicoll Curtin] Backend Engineer, AI — Singapore
   - [PhysicsX] Machine Learning Engineer — Singapore
-  - [Prudential Assurance Company Singapore] AI Engineer — Singapore, SingaporeActively Hiring
-  - [R Systems] Artificial Intelligence Engineer — Singapore, SingaporeActively Hiring
+  - [Prudential Assurance Company Singapore] AI Engineer — Singapore, Singapore
+  - [R Systems] Artificial Intelligence Engineer — Singapore, Singapore
   - [RSM - Singapore] AI Engineer, Data Science — Singapore, Singapore
   - [Razer] AI Software Engineer — Singapore
   - [Rezolve Ai] Machine Learning Engineer — Singapore, Singapore
-  - [SATS Ltd.] AI Engineer — Singapore, SingaporeActively Hiring
-  - [SEPHORA] Machine Learning Engineer — Singapore, SingaporeActively Hiring
-  - [SHIELD] Machine Learning Engineer (Risk) — Singapore, SingaporeActively Hiring
-  - [SHIELD] AI Engineer — Singapore, SingaporeActively Hiring
-  - [Sea] AI Engineer — Singapore, SingaporeActively Hiring
-  - [Seatrium] AI Engineer — Singapore, SingaporeActively Hiring
-  - [Seatrium] AI Developer — Singapore, SingaporeActively Hiring
+  - [SATS Ltd.] AI Engineer — Singapore, Singapore
+  - [SEPHORA] Machine Learning Engineer — Singapore, Singapore
+  - [SHIELD] Machine Learning Engineer (Risk) — Singapore, Singapore
+  - [SHIELD] AI Engineer — Singapore, Singapore
+  - [Sea] AI Engineer — Singapore, Singapore
+  - [Seatrium] AI Developer — Singapore, Singapore
+  - [Seatrium] AI Engineer — Singapore, Singapore
   - [Shokz] Artificial Intelligence Engineer — Singapore, Singapore
   - [SimplifyNext] Artificial Intelligence Engineer — Singapore, Singapore
-  - [Temus] AI Engineer — Singapore, SingaporeActively Hiring
+  - [Temus] AI Engineer — Singapore, Singapore
   - [The Digital and Intelligence Service (DIS)] Artificial Intelligence Engineer — Singapore, Singapore
   - [TikTok] Machine Learning Engineer, Monetization Data Alignment — Singapore, Singapore
-  - [Tower Research Capital] Machine Learning Engineer — Singapore, SingaporeActively Hiring
-  - [Unison Group] AI Engineer (Azure AI Solutions) — Singapore, Singapore
+  - [Tower Research Capital] Machine Learning Engineer — Singapore, Singapore
   - [Unison Group] AI Engineer — Singapore, Singapore
+  - [Unison Group] AI Engineer (Azure AI Solutions) — Singapore, Singapore
   - [Univers] AI Engineer — Singapore, Singapore
   - [VIAVI Solutions] AI Engineer — Singapore, Singapore
   - [Viridien] Machine Learning Engineer — Singapore, Singapore
-  - [Virtuos] AI Engineer — SingaporeActively Hiring
+  - [Virtuos] AI Engineer — Singapore
   - [Workato] AI Researcher — Singapore
-  - [Xiaomi Technology] Machine Learning Engineer(A178330) — Singapore, SingaporeActively Hiring
+  - [Xiaomi Technology] Machine Learning Engineer(A178330) — Singapore, Singapore
   - [adaption] Applied ML Engineer — Singapore, Singapore
 
 ---
